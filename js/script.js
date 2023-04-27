@@ -20,7 +20,7 @@ monogatari.action ('message').messages ({
 		`
 	},
 	'Car1': {
-		title: 'FORD FOCUS',
+		title: 'Трактор Беларус МТЗ 82.1',
 		subtitle: 'АПКК, 2017г.',
 		body: `Стоимость: 1000000 <br>
 		Стоимость в рассрочку: 2000000 <br>
