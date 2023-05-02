@@ -122,7 +122,7 @@ let script = {
 				"Warning": "You must enter a name!"
 			}
 		},*/
-        "show k smile with fadeIn",
+        "show k smile right with fadeIn",
 		"k:neutral Hey there! It's so good to see you again!",
         "k Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Incididunt ut.",
 		"hide k",
